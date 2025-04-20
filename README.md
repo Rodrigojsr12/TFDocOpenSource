@@ -1029,11 +1029,10 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 
 <div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
 
-![Greenhouse Impact map](https://github-production-user-asset-6210df.s3.amazonaws.com/103552798/265248691-9d6d3a10-e60a-45d3-bdd9-dbdcc792abb6.png)
+![AgroDigital Impact map]()
 
 
-
-Enlace para acceder al [UXPressia](https://uxpressia.com/w/0zjVz/p/K12gT/i/ArHxk)
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/vszcw/i/NfjHK?tagId=noTag)
 
 <div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 
